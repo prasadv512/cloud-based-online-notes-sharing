@@ -108,6 +108,7 @@ else {
             <option value="Computer Science">Computer Sc Engineering</option>
             <option value="Electrical">Electrical Engineering</option>
             <option value="Mechanical">Mechanical Engineering</option>
+           
             </select><br><br>
             
             <input class="buttom" name="signup" id="submit" tabindex="5" value="Sign me up!" type="submit">    
