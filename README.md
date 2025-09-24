@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # cloud_onlinenotessharing
 =======
 # College-Notes-Gallery
@@ -73,3 +74,7 @@ Fashion Responsive Slider
 ### License
 College Notes Gallery is released under the MIT License
 >>>>>>> c64558e (first upload)
+=======
+# cloud-based-online-notes-sharing
+Built and launched a cloud-hosted website for sharing college notes using HTML, CSS, JavaScript, PHP, and MySQL. Added secure user authentication and data storage, which allows students to easily access and share resources
+>>>>>>> f7af377b00077f055f08b4051c7f4ddcbd7c7d1c
